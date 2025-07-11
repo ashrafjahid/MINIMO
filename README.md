@@ -1,2 +1,2 @@
 # MINIMO
-A sample project for practise
+https://ashrafjahid.github.io/MINIMO/
